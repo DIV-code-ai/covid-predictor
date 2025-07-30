@@ -8,5 +8,3 @@ This project analyzes COVID-19 trends using machine learning techniques and publ
 - Evaluation with accuracy and confusion matrix
 - Visualization of key trends
 
-## 🚧 Missing Files
-> ⚠️ Note: The dataset file `covid_data.csv` is not currently included and will be uploaded soon.
